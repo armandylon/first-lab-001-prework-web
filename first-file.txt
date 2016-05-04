@@ -1,0 +1,2 @@
+#use touch <name-file> to make new file
+#use mkdir <name-directory> to make directory 
